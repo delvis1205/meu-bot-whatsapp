@@ -1,0 +1,17 @@
+{
+  "name": "meu-bot-whatsapp",
+  "version": "1.0.0",
+  "description": "Bot para WhatsApp com funções de administração e busca de vídeos.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.0.0",
+    "puppeteer": "^20.0.0",
+    "axios": "^1.0.0",
+    "fs-extra": "^10.0.0"
+  }
+}
