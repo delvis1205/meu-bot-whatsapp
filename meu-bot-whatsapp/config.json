@@ -1,0 +1,6 @@
+{
+    "prefixo": "!",
+    "mensagens": {
+        "menu": "Comandos disponíveis:\n- !admin: Registrar administrador.\n- !video [nome] [categoria]: Buscar vídeos.\n- !menu: Mostrar este menu."
+    }
+}
