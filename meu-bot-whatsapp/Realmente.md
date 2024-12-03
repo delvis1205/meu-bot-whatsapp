@@ -9,4 +9,5 @@ Bot para WhatsApp com funções de administração e busca de vídeos.
 - **Exibir menu**: `!menu`
 
 ## Instalação
-1. Clone o repositório: 
+1. Clone o repositório: https://github.com/delvis1205/meu-bot-whatsapp/
+   
